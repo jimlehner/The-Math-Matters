@@ -4,7 +4,7 @@ This repository contains the Python code and supporting files used to reproduce 
 
 To read the full essay visit [The Math Matters](https://themathmatters.substack.com/).
 
-![Mean and Median](figures/fig_mean.png)
+![Mean and Median](figures/fig_mean_vs_median_process_limits.png)
 
 ## About the Essay
 
