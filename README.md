@@ -17,3 +17,5 @@ Since, at its core, management is prediction, the ability to characterize and pr
 ## Other Stuff
 
 Want to learn more about reducing costs and improving the quality of manufactured products? Click the link below to visit The Broken Quality Initiative. There you will find books, essays, and other resources that explore how understanding variation is the key to manufacturing products of world-class quality.
+
+[BrokenQuality.com](https://brokenquality.com/).
