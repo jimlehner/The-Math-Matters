@@ -1,8 +1,10 @@
-![The Math Matters](figures/matter_matters_logo_A.png)
+# The Math Matters
 
 This repository contains the Python code and supporting files used to reproduce select figures for the essay published by the **The Math Matters** newsletter.
 
 To browse the existing publications, visit [The Math Matters](https://themathmatters.substack.com/).
+
+![The Math Matters](figures/math_matters_logo_A.png)
 
 ## About The Math Matters
 
