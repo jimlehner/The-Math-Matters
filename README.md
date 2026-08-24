@@ -1,0 +1,1 @@
+![The Math Matters](figures/matter_matters_logo.png)
