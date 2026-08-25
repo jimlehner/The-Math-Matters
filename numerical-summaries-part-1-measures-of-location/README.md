@@ -8,7 +8,7 @@ To read the full essay visit [The Math Matters](https://themathmatters.substack.
 
 ## About the Essay
 
-This essay explores how different measures of dispersion are calculated and how those calculations can be used to understand variation using process behavior charts.   
+This essay explores how different measures of location are calculated and how those calculations can be used to understand variation using process behavior charts.   
 
 - How the mean and median are calculated
 - Conceptual differences between the mean and median
