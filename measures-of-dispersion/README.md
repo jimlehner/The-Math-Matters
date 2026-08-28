@@ -4,7 +4,7 @@ This repository contains the Python code and supporting files used to reproduce 
 
 To read the full essay visit [The Math Matters](https://themathmatters.substack.com/).
 
-![](figures/fig_cellex_stdev_avemr_xcharts.png)
+![](figures/fig_xcharts.png)
 
 ## About the Essay
 
