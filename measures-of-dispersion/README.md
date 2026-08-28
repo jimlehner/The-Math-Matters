@@ -4,7 +4,7 @@ This repository contains the Python code and supporting files used to reproduce 
 
 To read the full essay visit [The Math Matters](https://themathmatters.substack.com/).
 
-![Standard deviation and average moving range](figures/fig_stdev_vs_avemr_process_limits.png)
+![Standard deviation and average moving range](figures/fig_cellex_stdev_avemr_xcharts.png)
 
 ## About the Essay
 
@@ -29,5 +29,7 @@ The repository contains the Python code and data used to reproduce select figure
     ├── fig_range_B.png
     ├── fig_stdev.png
     ├── fig_stdev.png
-    └── fig_cellex_stdev_avemr_xcharts.png
+    ├── fig_cellex_stdev_avemr_xcharts.png
+    ├── fig_xchart.png
+    └── fig_xmr_chart.png
 ```
