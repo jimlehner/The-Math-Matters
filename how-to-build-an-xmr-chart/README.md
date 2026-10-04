@@ -1,4 +1,4 @@
-# How to Build an XmR Chart
+# How to Build an XmR Chart (with Excel) - Part 1
 
 This repository contains the Excel workbook, data, and other supporting files used in The Math Matters Essay **How to Build an XmR Chart (with Excel)**.
 
