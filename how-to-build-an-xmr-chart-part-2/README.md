@@ -6,9 +6,14 @@ To read the full essay visit [The Math Matters](https://themathmatters.substack.
 
 ![](figures/Fig_within_limits_flowchart.png)
 
+## How to Build an XmR Chart (with Excel) - PDF and EPUB
+This two part series has been combined into a single EPUB and PDF that can be downloaded at (store.brokenquality.com)[https://store.brokenquality.com/b/how-to-xmr-with-excel] for FREE.
+
+![](figures/how_to_xmr_chart_cover.png)
+
 ## About the Essay
 
-Building on part one of this series found [here](https://themathmatters.substack.com/p/how-to-xmr-chart-with-excel-part2) this essay teaches readers how to apply conditional formatting tables, change the color of markers with values that fall outside the process limits, and characterize process behavior as predictable or unpredictable.
+Building on part one of this series found [here](https://themathmatters.substack.com/p/how-to-xmr-chart-with-excel-part1) this essay teaches readers how to apply conditional formatting tables, change the color of markers with values that fall outside the process limits, and characterize process behavior as predictable or unpredictable.
 
 The steps for building an XmR chart in Excel, outlined in part 1, include:
 
