@@ -4,7 +4,12 @@ This repository contains the Excel workbook, data, and other supporting files us
 
 To read the full essay visit [The Math Matters](https://themathmatters.substack.com/).
 
-![](figures/xmr_chart_complete.png)
+![](figures/fig_xcharts.png)
+
+## How to Build an XmR Chart (with Excel) - PDF and EPUB
+This two part series has been combined into a single EPUB and PDF that can be downloaded for FREE at (store.brokenquality.com)[https://store.brokenquality.com/b/how-to-xmr-with-excel].
+
+![](figures/how_to_xmr_chart_cover.png)
 
 ## About the Essay
 
@@ -13,13 +18,13 @@ This essay outlines a 6 step process for constructing an XmR chart using Microso
 The steps include:
 
 1. Gather the data
-2. Establish the spreadsheet structure
-3. Calculate the moving ranges
-4. Calculate the central lines
+2. Calculate the moving ranges
+3. Calculate the average moving range
+4. Calculate the mean
 5. Calculate the process limits
-6. Construct the XmR chart
+6. Put it all together (i.e. create the XmR chart)
 
-The essay is practical. As such. readers are encouraged to follow along. Those who do will gain firsthand knowledge of how to construct an XmR chart in Excel.
+Readers that follow along using the associated Excel workbook will gain first hand knowledge of how to construct an XmR chart using silicon wafer thickness data.
 
 ## Repository Contents
 
@@ -29,10 +34,11 @@ The repository contains the Excel workbook and data used in the essay. A Jupyter
 ├── README.md
 ├── data/
 │   └── silicon-wafer-thickness.csv
-├── equations/
 ├── excel/
-│   └── silicon-wafer-thickness-workbook.xlsx
-├── figures/
-├── tables/
-└── README.md
+│   └── how-to-build-an-xmr.xlsx
+├── notebooks/
+│   └── silicon-wafer-thickness-xmr.ipynb
+└── figures/
+    ├── fig_range_A.png
+    └── fig_xmr_chart.png
 ```
