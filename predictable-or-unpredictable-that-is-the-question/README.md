@@ -4,15 +4,16 @@ This repository contains the Python code and supporting files used to reproduce 
 
 To read the full essay visit [The Math Matters](https://themathmatters.substack.com/).
 
-![](figures/fig_xcharts.png)
+![](figures/fill_weights_labeled.png)
 
 ## About the Essay
 
-This essay explores how different measures of dispersion are calculated and how those calculations influence the calculation of process limits.   
+The essay outlines a method for interpreting process behavior charts called characterization. Using this method, a process is characterized as either predictable or unpredictable based on the relationship of the data to the process limits. Also called control limits or natural process limits, process limits define how large or small a value must be before it represents a departure from the historic mean. After reading the esssay you will understand:   
 
-- How the range, standard deviation, and average moving range are calculated
-- Conceptual differences between the range, standard deviation, and average moving range
-- The relationship between different measures of dispersion and the calculation of process limits
+- How to characterize process behavior (predictable or unpredictable)
+- The kinds of variation that influence process behavior relative to characterization
+- How responding to a predictable process differs from an unpredictable process
+- A flowchart outlining the logic of characterization
 
 ## Repository Contents
 
@@ -21,15 +22,17 @@ The repository contains the Python code and data used to reproduce select figure
 ```
 ├── README.md
 ├── data/
-│   └── cellex-cell-voltage.csv
+│   ├── fill_weights.csv
+│   ├── machine_screw_manufacturing.csv
+    └── magnetic_reciever_depth_of_cut.csv
 ├── notebooks/
-│   └── measures-of-dispersion.ipynb
+│   └── predictable-or-unpredictable.ipynb
 └── figures/
     ├── fig_range_A.png
     ├── fig_range_B.png
     ├── fig_stdev.png
     ├── fig_stdev.png
-    ├── fig_cellex_stdev_avemr_xcharts.png
-    ├── fig_xchart.png
-    └── fig_xmr_chart.png
+    ├── fill_weights_labeled.png
+    ├── screw_machine_xmr.png
+    └── screw_machine_xmr_labeled.png
 ```
